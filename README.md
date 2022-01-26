@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @olubiyi95
 - 👀 I’m interested in voip and telephony systems
-- 🌱 I’m currently learning voice engineering
-- 💞️ I’m looking to collaborate on freeswitch learning and development 
+- 🌱 I’m currently learning voice engineering and front-end development
+- 💞️ I’m looking to collaborate on freePBX and front-end projects 
 - 📫 How to reach me via telegram, username is lugi_luga
 
 <!---
